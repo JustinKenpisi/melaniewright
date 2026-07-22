@@ -4,7 +4,7 @@
 
 
 
-Melanie Jane Wright (1970-2011)
+# Melanie Jane Wright (1970-2011)
 
 
 

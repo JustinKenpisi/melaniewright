@@ -18,10 +18,10 @@ title: Publications
 ![Melanie Wright](images/melwhitechapel.jpg)
 
 
-## Melanie's Publications
 
 
-**Authored books**
+
+## Authored books
 
 Melanie J. Wright (2012) *Studying Judaism*, Contiuum, 216pp, ISBN 978 08264 8719 -2.
 
@@ -32,8 +32,7 @@ Melanie J. Wright (2003) *Understanding Judaism,* Orchard Academic, 269pp, ISBN 
 Melanie J. Wright (2003) *Moses in America: the cultural uses of biblical narrative* [American Academy of Religions Cultural Criticism Series], Oxford University Press, 172pp, ISBN 0 19 515226 3
 
  
-
-**Edited books**
+## Edited books
 
 Melanie J. Wright and Faltin (eds) (2007) *The Religious Roots of Contemporary European Identity*, Continuum, 230pp, ISBN 0 8264 9482 X
 
@@ -41,7 +40,7 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  
 
-**Chapters in books**
+## Chapters in books
 
 'Material Judaism: Interpreting the Pushke', in Daria Pezzoli-Olgiati and Christopher Rowland (eds) (2011), *Approaches to the Visual in Religion*. Vandenhoeck & Ruprecht, pp. 51-63. ISBN 978 3 525 60442 7 [The volume was dedicated to Melanie's memory.]
 
@@ -73,9 +72,9 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  
 
-**Journal articles**
+## Journal articles
 
-***Refereed journals\***
+### Refereed journals
 
 ‘”Perfection is not an aim”: the Margate Exodus’ - was to be in the *European Journal of Cultural Studies* Vol 10(3) 2010 but Melanie fell ill before its completion. [[pdf here](http://melaniewright.squarespace.com/storage/Mel's unpublished paper - EJCS perfection is not an aim.pdf)] 
 
@@ -89,7 +88,7 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  
 
-***Non-refereed journals\***
+### Non-refereed journals
 
 ‘Dialogue or Dominance?: Interfaith Encounter and Cecil B. DeMille’s The Ten Commandments’, *Discernment: An Ecumenical Journal of Inter-Religious Encounter* Vol 3(1), 1996, pp. 10-19 
 
@@ -97,7 +96,7 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  
 
-**CONFERENCE CONTRIBUTIONS**
+## Conference contributions
 
 ‘TBC - Paper on Jesus of Montreal (dir. Denys Arcand)’. Religion and Visual Culture Group, Annual Conference of the American Academy of Religions, Montreal, November 2009 [cancelled due to illness]
 
@@ -119,7 +118,7 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  
 
-**CONTRIBUTIONS TO REFERENCE WORKS**
+## Contributions to reference works
 
 ‘Cinema and film,’ ‘English Literature’ (1000 words each). In E.D Kessler & N. Wenborn (eds) (2005), *A Dictionary of Jewish-Christian Relations*, Cambridge University Press, ISBN 0521826926
 

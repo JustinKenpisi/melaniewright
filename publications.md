@@ -130,4 +130,4 @@ Melanie J. Wright and Edward Kessler (eds) (2005) *Themes in Jewish-Christian Re
 
  Melanie J. Wright ‘Judaism and Christianity’ in J. Bowden (ed.) (2005), *Christianity: the complete guide, Continuum*, pp. 683-687 (2500 words) ISBN 0 8264 5937 4
 
-Melanie J. Wright 'Jewish-Christian Relations' in T. Noble, T. Grass, J. McDowell and S. Holmes (eds) *New Dictionary of Theology*, InterVarsity Press, 201
+Melanie J. Wright 'Jewish-Christian Relations' in T. Noble, T. Grass, J. McDowell and S. Holmes (eds) *New Dictionary of Theology*, InterVarsity Press, 2016

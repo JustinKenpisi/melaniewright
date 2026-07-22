@@ -6,7 +6,6 @@ author: Justin
 
 
 
-## Melanie's Life
 
 
 
@@ -15,7 +14,7 @@ author: Justin
 ![Melanie Wright](images/melwhitechapel.jpg)
 
 
-
+## Melanie's Life
 
 
 Melanie described her academic life in this way, in an entry that she wrote for academia.edu:

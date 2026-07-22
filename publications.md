@@ -1,4 +1,6 @@
+---
 title: Publications
+---
 
 
 
@@ -14,7 +16,7 @@ title: Publications
 
 
 
-![Melanie Wright](/home/jjm1000/Dropbox/Web Sites/Mel's/images/melwhitechapel.jpg)
+![Melanie Wright](images/melwhitechapel.jpg)
 
 
 

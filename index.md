@@ -7,12 +7,6 @@ author: Justin
 
 
 
-
-
-# Melanie Jane Wright (1970-2011)
-
-
-
 ![Melanie Wright](images/melwhitechapel.jpg)
 
 

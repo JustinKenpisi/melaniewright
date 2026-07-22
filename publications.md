@@ -8,7 +8,6 @@ title: Publications
 
 
 
-## Melanie's Publications
 
 
 
@@ -19,7 +18,7 @@ title: Publications
 ![Melanie Wright](images/melwhitechapel.jpg)
 
 
-
+## Melanie's Publications
 
 
 **Authored books**

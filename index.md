@@ -1,5 +1,5 @@
 ---
-title: Melanie Jane Wright
+title: Melanie Jane Wright (1970-2011)
 author: Justin
 ---
 

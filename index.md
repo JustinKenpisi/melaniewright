@@ -15,7 +15,7 @@ author: Justin
 
 The picture is of Melanie in the Whitechapel Art Gallery in autumn 2009. 
 
-She was in the East End undertaking research for her final book, Studying Judaism, London: Continuum, 2012.
+She was in the East End undertaking research for her final book, _Studying Judaism_ (2012).
 
 
 
